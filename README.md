@@ -8,7 +8,7 @@ The insights derived help understand sales dynamics and customer value.
 
 - `project_transactions.csv` – Contains transactional-level retail data, including sales values, discounts, and product details.
 - `product.csv` – Contains product metadata such as manufacturer, department, and description.
-- This project is continuely improving, so the new analysis will be added, there will be more data files used...
+- This project is continuously improving, so the new analysis will be added, there will be more data files used...
 
 ---
 
